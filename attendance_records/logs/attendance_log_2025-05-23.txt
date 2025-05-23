@@ -1,0 +1,6 @@
+[2025-05-23 15:10:01] Students detected: 5. Image saved: attendance_20250523_151001_495987.jpg
+[2025-05-23 15:10:01] AI Analysis saved: ai_analysis_20250523_151001_495987.txt
+[2025-05-23 15:10:08] Students detected: 5. Image saved: attendance_20250523_151008_709343.jpg
+[2025-05-23 15:10:08] AI Analysis saved: ai_analysis_20250523_151008_709343.txt
+[2025-05-23 15:17:14] Students detected: 5. Image saved: attendance_20250523_151714_627011.jpg
+[2025-05-23 15:17:14] AI Analysis saved: ai_analysis_20250523_151714_627011.txt
